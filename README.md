@@ -2,3 +2,5 @@
 Various 3D Models 
 
 Feel free to use these models as needed for your projects!
+
+These models are for Fusion 360.
